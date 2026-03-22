@@ -1,4 +1,4 @@
-# Directory Organizer
+# Dorg — Directory Organizer
 
 A smart desktop app that organizes any messy directory using **advanced file detection** — not just file extensions, but magic bytes, image analysis, EXIF data, audio probing, and 40+ filename patterns.
 
@@ -134,8 +134,8 @@ Without optional dependencies, the app still works using magic bytes, file size,
 
 ```bash
 # Clone the repo
-git clone https://github.com/pidoshva/DirectoryOrganizer.git
-cd DirectoryOrganizer
+git clone https://github.com/pidoshva/Dorg.git
+cd Dorg
 
 # Install Pillow (recommended)
 pip install Pillow
