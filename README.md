@@ -1,4 +1,4 @@
-# Dorg — Directory Organizer
+# Dorg — Directory Organizer (BETA)
 
 A smart desktop app that organizes any messy directory using **advanced file detection** — not just file extensions, but magic bytes, image analysis, EXIF data, audio probing, and 40+ filename patterns.
 
